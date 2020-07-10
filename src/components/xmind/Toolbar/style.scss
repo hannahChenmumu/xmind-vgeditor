@@ -1,0 +1,28 @@
+.toolbar-tag {
+  padding: 0 10px;
+  .tagicon {
+    opacity: .8;
+    cursor: pointer;
+    &:hover {
+      opacity: 1;
+    }
+  }
+  .tagicon + .tagicon {
+    margin-left: 10px;
+  }
+  .group {
+    max-width: 94px;
+    margin: 4px 0;
+  }
+  .el-button + .el-button {
+    margin-left: 4px;
+  }
+  .el-button {
+    width: 22px;
+    height: 22px;
+    padding: 0;
+    margin: 4px;
+    font-family: Arial;
+    border: 0;
+  }
+}

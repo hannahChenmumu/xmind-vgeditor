@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>编组备份 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A0" transform="translate(-1033.000000, -1438.000000)">
+            <g id="编组备份-4" transform="translate(1033.000000, 1438.000000)">
+                <circle id="椭圆形" fill="#CCCCCC" cx="10" cy="10" r="10"></circle>
+                <line x1="6" y1="6" x2="14" y2="14" id="直线" stroke="#8B8A8A" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="6" y1="14" x2="14" y2="6" id="直线" stroke="#8B8A8A" stroke-width="2" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>
